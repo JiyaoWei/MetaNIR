@@ -1,2 +1,2 @@
 # MetaNIR
-We will make the code of this work open source in the near future.
+We will open source the data and code in the next month.
